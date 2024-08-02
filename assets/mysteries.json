@@ -1,0 +1,271 @@
+{
+
+  "mysteries": [
+    {
+      "id": 1,
+      "title": "Mystères Joyeux",
+      "description": "Les Mystères Joyeux sont médités le lundi et le samedi.",
+      "imagePath": "assets/images/joyeux.jpg",
+      "meditations": [
+        {
+          "title": "L'Annonciation",
+          "audioPath": "audio/joyeux/1.mp3",
+          "description": "Le sixième mois, l'ange Gabriel fut envoyé par Dieu dans une ville de Galilée appelée Nazareth à une vierge, accordée en mariage à un homme de la maison de David nommé Joseph; et le nom de la Vierge était Marie.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Visitation",
+          "audioPath": "audio/joyeux/2.mp3",
+          "description": "Marie se leva et se rendit en hâte dans une ville de Juda, entra dans la maison de Zacharie et salua Élisabeth.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Naissance de Jésus",
+          "audioPath": "audio/joyeux/3.mp3",
+          "description": "Un décret de César Auguste ordonna un recensement de toute la terre. Ce premier recensement se fit lorsque Quirinius était gouverneur de la Syrie.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Présentation de Jésus au Temple",
+          "audioPath": "audio/joyeux/4.mp3",
+          "description": "Quand fut venu le temps de leur purification, selon la Loi de Moïse, ils le portèrent à Jérusalem pour le présenter au Seigneur.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "Le Recouvrement de Jésus au Temple",
+          "audioPath": "audio/joyeux/5.mp3",
+          "description": "Chaque année, les parents de Jésus se rendaient à Jérusalem pour la fête de Pâques. Lorsque Jésus eut douze ans, ils montèrent à Jérusalem selon la coutume de la fête.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mystères Douloureux",
+      "description": "Les Mystères Douloureux sont médités le mardi et le vendredi.",
+      "imagePath": "assets/images/douloureux.jpg",
+      "meditations": [
+        {
+          "title": "L'Agonie de Jésus au Jardin des Oliviers",
+          "audioPath": "audio/douloureux/1.mp3",
+          "description": "Jésus arriva à Gethsémani et dit à ses disciples : 'Asseyez-vous ici, pendant que je m'éloigne pour prier.'",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Flagellation",
+          "audioPath": "audio/douloureux/2.mp3",
+          "description": "Alors Pilate prit Jésus et le fit flageller.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "Le Couronnement d'Épines",
+          "audioPath": "audio/douloureux/3.mp3",
+          "description": "Les soldats du gouverneur conduisirent Jésus dans le prétoire et rassemblèrent autour de lui toute la cohorte.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "Le Portement de la Croix",
+          "audioPath": "audio/douloureux/4.mp3",
+          "description": "Jésus portant sa croix sortit pour aller au lieu appelé le Calvaire.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Crucifixion et Mort de Jésus",
+          "audioPath": "audio/douloureux/5.mp3",
+          "description": "Ils crucifièrent Jésus et le partageèrent en quatre parts. Ils prenaient son vêtement et jetèrent des sorts pour savoir ce que chacun aurait.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        }
+      ]
+    },{
+      "id": 3,
+      "title": "Mystères Glorieux",
+      "description": "Les Mystères Glorieux sont médités le dimanche et le mercredi.",
+      "imagePath": "assets/images/glorieux.jpg",
+      "meditations": [
+        {
+          "title": "La Résurrection de Jésus",
+          "audioPath": "audio/glorieux/1.mp3",
+          "description": "Le premier jour de la semaine, Marie Madeleine se rendit au sépulcre, de grand matin, alors qu'il faisait encore sombre. Elle vit que la pierre avait été enlevée du sépulcre.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "L'Ascension de Jésus au Ciel",
+          "audioPath": "audio/glorieux/2.mp3",
+          "description": "Jésus, après avoir parlé avec ses disciples, fut enlevé au ciel. Il leur avait dit : 'Vous serez mes témoins à Jérusalem, dans toute la Judée et la Samarie, et jusqu'aux extrémités de la terre.'",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Pentecôte",
+          "audioPath": "audio/glorieux/3.mp3",
+          "description": "Quand le jour de la Pentecôte arriva, ils étaient tous ensemble dans le même lieu. Tout à coup, il vint du ciel un bruit comme celui d'un vent violent qui remplissait toute la maison où ils étaient assis.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "L'Assomption de la Vierge Marie",
+          "audioPath": "audio/glorieux/4.mp3",
+          "description": "Marie, ayant terminé sa course terrestre, fut prise au ciel dans la gloire. L'Assomption est l'événement par lequel Marie est montée au ciel, corps et âme.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "Le Couronnement de la Vierge Marie",
+          "audioPath": "audio/glorieux/5.mp3",
+          "description": "Marie fut couronnée Reine du ciel et de la terre. Elle est notre Reine et Mère céleste, reine des anges et des saints.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        }
+      ]
+    },{
+      "id": 4,
+      "title": "Mystères Lumineux",
+      "description": "Les Mystères Lumineux sont médités le jeudi.",
+      "imagePath": "assets/images/lumineux.jpg",
+      "meditations": [
+        {
+          "title": "Le Baptême de Jésus dans le Jourdain",
+          "audioPath": "audio/lumineux/1.mp3",
+          "description": "Jésus se rendit au Jourdain pour être baptisé par Jean. Au moment où Jésus sortit de l'eau, le ciel s'ouvrit et l'Esprit Saint descendit sur lui sous forme de colombe.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "Les Noces de Cana",
+          "audioPath": "audio/lumineux/2.mp3",
+          "description": "Lors d'un mariage à Cana, Jésus accomplit son premier miracle en transformant de l'eau en vin, révélant sa gloire et sa puissance divine.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "L'Annonce du Royaume de Dieu",
+          "audioPath": "audio/lumineux/3.mp3",
+          "description": "Jésus proclame la venue du Royaume de Dieu, appelant à la conversion et à la foi en l'Évangile.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "La Transfiguration",
+          "audioPath": "audio/lumineux/4.mp3",
+          "description": "Sur une haute montagne, Jésus se transfigure devant Pierre, Jacques et Jean, montrant sa gloire divine avec Moïse et Élie.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        },
+        {
+          "title": "L'Institution de l'Eucharistie",
+          "audioPath": "audio/lumineux/5.mp3",
+          "description": "Lors de la dernière Cène, Jésus institue l'Eucharistie en prenant du pain et du vin, les bénissant et les offrant comme son Corps et son Sang.",
+          "postMysteryPrayers": [
+            { "title": "Notre Père", "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen." },
+            { "title": "Je Vous Salue Marie x10", "text": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant et à l'heure de notre mort. Amen." },
+            { "title": "Gloire au Père", "text": "Gloire au Père, au Fils et au Saint-Esprit, comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen." },
+            { "title": "Prière de Fatima", "text": "Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde." }
+          ]
+        }
+      ]
+    },{
+      "conclusion": {
+        "prayers": [
+          {
+            "title": "Prière de la Sainte Reine",
+            "text": "Sainte Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, sois notre avocate. Vers toi nous crions, exilés fils d'Ève ; vers toi nous soupirons, gémissant et pleurant dans cette vallée de larmes.",
+            "audioPath": "audio/priere_sainte_reine.mp3"
+          },
+          {
+            "title": "Litanie de la Vierge Marie",
+            "text": "Seigneur, prends pitié. Christ, prends pitié. Seigneur, prends pitié. Christ, écoute-nous. Christ, exauce-nous. Dieu le Père céleste, aie pitié de nous. Dieu le Fils, Rédempteur du monde, aie pitié de nous. Dieu le Saint-Esprit, aie pitié de nous.",
+            "audioPath": "audio/litanie_vierge_marie.mp3"
+          }
+        ]
+      }
+    }
+
+  ]
+}
